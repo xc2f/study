@@ -1,0 +1,1468 @@
+Uri: https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_AMS-Regular.woff
+File Name: C:\Downloaded Web Sites\www.gamemath.com\npm\mathjax@3\es5\output\chtml\fonts\woff-v2\MathJax_AMS-Regular.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Bold.woff
+File Name: C:\Downloaded Web Sites\www.gamemath.com\npm\mathjax@3\es5\output\chtml\fonts\woff-v2\MathJax_Calligraphic-Bold.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Regular.woff
+File Name: C:\Downloaded Web Sites\www.gamemath.com\npm\mathjax@3\es5\output\chtml\fonts\woff-v2\MathJax_Calligraphic-Regular.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Fraktur-Bold.woff
+File Name: C:\Downloaded Web Sites\www.gamemath.com\npm\mathjax@3\es5\output\chtml\fonts\woff-v2\MathJax_Fraktur-Bold.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Fraktur-Regular.woff
+File Name: C:\Downloaded Web Sites\www.gamemath.com\npm\mathjax@3\es5\output\chtml\fonts\woff-v2\MathJax_Fraktur-Regular.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Main-Italic.woff
+File Name: C:\Downloaded Web Sites\www.gamemath.com\npm\mathjax@3\es5\output\chtml\fonts\woff-v2\MathJax_Main-Italic.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Math-BoldItalic.woff
+File Name: C:\Downloaded Web Sites\www.gamemath.com\npm\mathjax@3\es5\output\chtml\fonts\woff-v2\MathJax_Math-BoldItalic.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Math-Italic.woff
+File Name: C:\Downloaded Web Sites\www.gamemath.com\npm\mathjax@3\es5\output\chtml\fonts\woff-v2\MathJax_Math-Italic.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_SansSerif-Bold.woff
+File Name: C:\Downloaded Web Sites\www.gamemath.com\npm\mathjax@3\es5\output\chtml\fonts\woff-v2\MathJax_SansSerif-Bold.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_SansSerif-Italic.woff
+File Name: C:\Downloaded Web Sites\www.gamemath.com\npm\mathjax@3\es5\output\chtml\fonts\woff-v2\MathJax_SansSerif-Italic.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_SansSerif-Regular.woff
+File Name: C:\Downloaded Web Sites\www.gamemath.com\npm\mathjax@3\es5\output\chtml\fonts\woff-v2\MathJax_SansSerif-Regular.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Script-Regular.woff
+File Name: C:\Downloaded Web Sites\www.gamemath.com\npm\mathjax@3\es5\output\chtml\fonts\woff-v2\MathJax_Script-Regular.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Size1-Regular.woff
+File Name: C:\Downloaded Web Sites\www.gamemath.com\npm\mathjax@3\es5\output\chtml\fonts\woff-v2\MathJax_Size1-Regular.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff
+File Name: C:\Downloaded Web Sites\www.gamemath.com\npm\mathjax@3\es5\output\chtml\fonts\woff-v2\MathJax_Size2-Regular.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff
+File Name: C:\Downloaded Web Sites\www.gamemath.com\npm\mathjax@3\es5\output\chtml\fonts\woff-v2\MathJax_Size3-Regular.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff
+File Name: C:\Downloaded Web Sites\www.gamemath.com\npm\mathjax@3\es5\output\chtml\fonts\woff-v2\MathJax_Size4-Regular.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff
+File Name: C:\Downloaded Web Sites\www.gamemath.com\npm\mathjax@3\es5\output\chtml\fonts\woff-v2\MathJax_Typewriter-Regular.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff
+File Name: C:\Downloaded Web Sites\www.gamemath.com\npm\mathjax@3\es5\output\chtml\fonts\woff-v2\MathJax_Vector-Bold.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff
+File Name: C:\Downloaded Web Sites\www.gamemath.com\npm\mathjax@3\es5\output\chtml\fonts\woff-v2\MathJax_Vector-Regular.woff
+Content Type: font/woff
+
+Uri: https://www.gamemath.com/book/
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\index.htm
+Content Type: text/html
+
+Uri: https://www.gamemath.com/book/3dmathprimer_book.css
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\3dmathprimer_book.css
+Content Type: text/css
+
+Uri: https://www.gamemath.com/book/afterword.html
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\afterword.html
+Content Type: text/html
+
+Uri: https://www.gamemath.com/book/answers.html
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\answers.html
+Content Type: text/html
+
+Uri: https://www.gamemath.com/book/cartesianspace.html
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\cartesianspace.html
+Content Type: text/html
+
+Uri: https://www.gamemath.com/book/curves.html
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\curves.html
+Content Type: text/html
+
+Uri: https://www.gamemath.com/book/dynamics.html
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\dynamics.html
+Content Type: text/html
+
+Uri: https://www.gamemath.com/book/figs/answers/answer_exercise_dot_product.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\answers\answer_exercise_dot_product.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/answers/bezier_exercise_inverse_smoothstep.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\answers\bezier_exercise_inverse_smoothstep.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/answers/exercise_answer_2d_polar_labeled_points.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\answers\exercise_answer_2d_polar_labeled_points.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/answers/exercise_average_instantaneous_velocity.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\answers\exercise_average_instantaneous_velocity.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/answers/lagrange_quadratic_unit_spacing.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\answers\lagrange_quadratic_unit_spacing.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/cartesianspace/2d_axes_orientations.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\cartesianspace\2d_axes_orientations.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/cartesianspace/2d_cartesian_space.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\cartesianspace\2d_cartesian_space.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/cartesianspace/2d_labeled_points.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\cartesianspace\2d_labeled_points.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/cartesianspace/2d_locating_points.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\cartesianspace\2d_locating_points.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/cartesianspace/3d_cartesian_space.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\cartesianspace\3d_cartesian_space.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/cartesianspace/3d_conventions.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\cartesianspace\3d_conventions.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/cartesianspace/3d_locating_points.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\cartesianspace\3d_locating_points.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/cartesianspace/angle_in_standard_position.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\cartesianspace\angle_in_standard_position.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/cartesianspace/angle_in_standard_position_arbitrary_length_ray.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\cartesianspace\angle_in_standard_position_arbitrary_length_ray.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/cartesianspace/exercise_labeled_points.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\cartesianspace\exercise_labeled_points.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/cartesianspace/exercise_labeled_points_3d.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\cartesianspace\exercise_labeled_points_3d.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/cartesianspace/hyp_adj_opp.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\cartesianspace\hyp_adj_opp.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/cartesianspace/integers.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\cartesianspace\integers.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/cartesianspace/law_of_sines_law_of_cosines.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\cartesianspace\law_of_sines_law_of_cosines.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/cartesianspace/left_handed_coordinate_space.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\cartesianspace\left_handed_coordinate_space.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/cartesianspace/left_hand_rule_rotation.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\cartesianspace\left_hand_rule_rotation.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/cartesianspace/map_of_cartesia.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\cartesianspace\map_of_cartesia.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/cartesianspace/naturals.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\cartesianspace\naturals.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/cartesianspace/pythagorean_theorem.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\cartesianspace\pythagorean_theorem.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/cartesianspace/radians_measure_intercepted_arc.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\cartesianspace\radians_measure_intercepted_arc.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/cartesianspace/right_handed_coordinate_space.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\cartesianspace\right_handed_coordinate_space.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/cartesianspace/right_hand_rule_rotation.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\cartesianspace\right_hand_rule_rotation.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/cartesianspace/screen_space.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\cartesianspace\screen_space.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/cartesianspace/sheep.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\cartesianspace\sheep.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/aitkens_1.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\aitkens_1.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/aitkens_example_s_1.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\aitkens_example_s_1.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/aitkens_example_s_2.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\aitkens_example_s_2.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/auto_tangent_control_problem.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\auto_tangent_control_problem.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/bernstein_1.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\bernstein_1.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/bernstein_2.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\bernstein_2.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/bernstein_3.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\bernstein_3.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/bernstein_4.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\bernstein_4.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/bezier_and_hermite_forms.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\bezier_and_hermite_forms.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/bezier_continuity.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\bezier_continuity.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/bezier_curves_examples.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\bezier_curves_examples.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/bezier_numbering.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\bezier_numbering.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/catmull_rom_example.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\catmull_rom_example.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/exercise_bezier_example.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\exercise_bezier_example.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/hermite_basis.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\hermite_basis.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/hermite_curves_examples.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\hermite_curves_examples.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/hermite_knot_numbering.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\hermite_knot_numbering.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/knot_numbering.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\knot_numbering.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/lagrange_basis_polynomials_scaled.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\lagrange_basis_polynomials_scaled.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/lagrange_basis_polynomial_1.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\lagrange_basis_polynomial_1.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/lagrange_basis_polynomial_2.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\lagrange_basis_polynomial_2.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/lagrange_basis_polynomial_3.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\lagrange_basis_polynomial_3.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/lagrange_basis_polynomial_4.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\lagrange_basis_polynomial_4.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/lagrange_polynomial_interpolation_s.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\lagrange_polynomial_interpolation_s.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/polynomial_interpolation_example_s.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\polynomial_interpolation_example_s.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/ray_same_shape_different_paths.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\ray_same_shape_different_paths.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/splines_in_photoshop_screen_capture.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\splines_in_photoshop_screen_capture.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/subdivision_decasteljau_allpoints.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\subdivision_decasteljau_allpoints.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/subdivision_decasteljau_endpoint.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\subdivision_decasteljau_endpoint.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/subdivision_intro.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\subdivision_intro.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/tcb_bias.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\tcb_bias.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/tcb_continuity.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\tcb_continuity.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/curves/tcb_tension.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\curves\tcb_tension.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/dynamics/angular_velocity_spin_orbital_3d.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\dynamics\angular_velocity_spin_orbital_3d.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/dynamics/cog_weird_shape_exeriment.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\dynamics\cog_weird_shape_exeriment.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/dynamics/cog_weird_shape_experiment_toss_parabola.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\dynamics\cog_weird_shape_experiment_toss_parabola.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/dynamics/collision_detection_example_results.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\dynamics\collision_detection_example_results.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/dynamics/collision_detection_relative_velocity.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\dynamics\collision_detection_relative_velocity.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/dynamics/collision_impulse_calculation_balls.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\dynamics\collision_impulse_calculation_balls.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/dynamics/collision_impulse_calculation_balls_results_comparison.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\dynamics\collision_impulse_calculation_balls_results_comparison.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/dynamics/critical_damping.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\dynamics\critical_damping.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/dynamics/elevator_fall_alien_inertial_frame.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\dynamics\elevator_fall_alien_inertial_frame.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/dynamics/exercise_monkey_tightrope_torque.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\dynamics\exercise_monkey_tightrope_torque.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/dynamics/friction_normal_force.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\dynamics\friction_normal_force.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/dynamics/momentum_collision_elastic.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\dynamics\momentum_collision_elastic.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/dynamics/momentum_collision_inelastic_bullet_block.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\dynamics\momentum_collision_inelastic_bullet_block.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/dynamics/momentum_collision_inelastic_car_crash.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\dynamics\momentum_collision_inelastic_car_crash.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/dynamics/moment_of_inertia_examples.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\dynamics\moment_of_inertia_examples.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/dynamics/newtons_third_law_moe_box_push.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\dynamics\newtons_third_law_moe_box_push.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/dynamics/pickup_truck_moment_of_inertia.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\dynamics\pickup_truck_moment_of_inertia.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/dynamics/robot_elevator_drop.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\dynamics\robot_elevator_drop.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/dynamics/rotational_dynamics_disk_force_lever_arm.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\dynamics\rotational_dynamics_disk_force_lever_arm.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/dynamics/rotational_dynamics_disk_force_on_m.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\dynamics\rotational_dynamics_disk_force_on_m.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/dynamics/rotational_dynamics_force_no_torque_and_couple.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\dynamics\rotational_dynamics_force_no_torque_and_couple.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/dynamics/spring_sinusoidal.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\dynamics\spring_sinusoidal.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/aabb.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\aabb.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/aabb_transform.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\aabb_transform.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/aabb_vs_sphere.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\aabb_vs_sphere.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/convexity_test_turn_angle.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\convexity_test_turn_angle.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/line_normal_and_distance.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\line_normal_and_distance.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/line_normal_and_point.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\line_normal_and_point.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/line_perpendicular_bisector.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\line_perpendicular_bisector.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/line_slope_intercept.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\line_slope_intercept.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/line_vs_line_segment_vs_ray.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\line_vs_line_segment_vs_ray.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/parametric_form_circle.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\parametric_form_circle.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/plane_distance_to_point.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\plane_distance_to_point.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/plane_from_three_points.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\plane_from_three_points.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/plane_front_and_back.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\plane_front_and_back.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/polygon_complex_into_simple_seam_edges.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\polygon_complex_into_simple_seam_edges.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/polygon_convex_triangulation_fan.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\polygon_convex_triangulation_fan.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/polygon_convex_vs_concave.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\polygon_convex_vs_concave.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/polygon_self_intersecting.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\polygon_self_intersecting.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/polygon_simple_vs_complex.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\polygon_simple_vs_complex.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/ray_parametric.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\ray_parametric.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/ray_two_points.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\ray_two_points.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/triangle_area_under_edge.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\triangle_area_under_edge.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/triangle_barycentric_coordinates.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\triangle_barycentric_coordinates.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/triangle_barycentric_coordinates_compute.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\triangle_barycentric_coordinates_compute.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/triangle_barycentric_coordinates_compute_3d.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\triangle_barycentric_coordinates_compute_3d.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/triangle_barycentric_tessellates_plane.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\triangle_barycentric_tessellates_plane.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/triangle_center_of_gravity.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\triangle_center_of_gravity.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/triangle_circumcenter.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\triangle_circumcenter.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/triangle_enclosed_in_parallelogram.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\triangle_enclosed_in_parallelogram.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/triangle_incenter.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\triangle_incenter.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomprims/triangle_notation.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomprims\triangle_notation.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomtests/closest_point_implicit_line.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomtests\closest_point_implicit_line.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomtests/closest_point_parametric_ray.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomtests\closest_point_parametric_ray.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomtests/closest_point_sphere.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomtests\closest_point_sphere.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomtests/intersection_dynamic_aabb.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomtests\intersection_dynamic_aabb.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomtests/intersection_dynamic_aabb_t_overlap.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomtests\intersection_dynamic_aabb_t_overlap.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomtests/intersection_dynamic_spheres.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomtests\intersection_dynamic_spheres.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomtests/intersection_dynamic_spheres_both_moving.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomtests\intersection_dynamic_spheres_both_moving.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomtests/intersection_dynamic_spheres_one_moving.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomtests\intersection_dynamic_spheres_one_moving.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomtests/intersection_dynamic_sphere_plane.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomtests\intersection_dynamic_sphere_plane.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomtests/intersection_dynamic_sphere_plane_2.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomtests\intersection_dynamic_sphere_plane_2.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomtests/intersection_ray_plane.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomtests\intersection_ray_plane.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomtests/intersection_ray_sphere.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomtests\intersection_ray_sphere.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomtests/intersection_three_planes.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomtests\intersection_three_planes.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomtests/intersection_two_lines_2d.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomtests\intersection_two_lines_2d.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomtests/intersection_two_spheres.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomtests\intersection_two_spheres.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/geomtests/skew_rays.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\geomtests\skew_rays.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/backface_culling.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\backface_culling.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/backface_culling_vertex_order.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\backface_culling_vertex_order.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/clip_example.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\clip_example.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/clip_rules.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\clip_rules.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/coordinate_spaces_summary.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\coordinate_spaces_summary.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/cube_and_pyramid_trimesh.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\cube_and_pyramid_trimesh.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/cylinder_different_number_of_sides.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\cylinder_different_number_of_sides.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/cylinder_hexagon_interpolated_normals.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\cylinder_hexagon_interpolated_normals.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/doom_light_fake_spot_box.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\doom_light_fake_spot_box.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/doom_light_fake_spot_falloff.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\doom_light_fake_spot_falloff.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/doom_light_fake_spot_gobo.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\doom_light_fake_spot_gobo.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/doom_light_fake_spot_room.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\doom_light_fake_spot_room.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/doom_light_omni_box.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\doom_light_omni_box.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/doom_light_omni_falloff.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\doom_light_omni_falloff.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/doom_light_omni_gobo.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\doom_light_omni_gobo.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/doom_light_omni_room.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\doom_light_omni_room.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/doom_light_spot_box.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\doom_light_spot_box.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/doom_light_spot_falloff.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\doom_light_spot_falloff.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/doom_light_spot_gobo.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\doom_light_spot_gobo.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/doom_light_spot_room.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\doom_light_spot_room.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/double_buffering.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\double_buffering.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/exercise_lighting_diffuse_spec_match.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\exercise_lighting_diffuse_spec_match.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/exercise_texture_mapping_match.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\exercise_texture_mapping_match.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/field_of_view.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\field_of_view.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/graphics_pipeline_data_flow.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\graphics_pipeline_data_flow.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/graphics_pipeline_division_of_labor.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\graphics_pipeline_division_of_labor.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/lighting_diffuse_reflection.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\lighting_diffuse_reflection.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/lighting_equation_head.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\lighting_equation_head.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/lighting_lambert.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\lighting_lambert.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/lighting_specular_blinn.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\lighting_specular_blinn.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/lighting_specular_heads.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\lighting_specular_heads.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/lighting_specular_phong.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\lighting_specular_phong.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/lighting_specular_r.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\lighting_specular_r.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/light_attenuation_curves.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\light_attenuation_curves.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/normals_dual_vectors.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\normals_dual_vectors.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/output_window.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\output_window.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/perspective_projection_different_values_for_d.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\perspective_projection_different_values_for_d.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/point_light.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\point_light.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/projection_robot_kitchen_ortho.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\projection_robot_kitchen_ortho.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/projection_robot_kitchen_perspective.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\projection_robot_kitchen_perspective.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/radiance_projected_area.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\radiance_projected_area.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/robot_binding_pose_model.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\robot_binding_pose_model.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/robot_binding_pose_together.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\robot_binding_pose_together.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/shading_teapot_flat.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\shading_teapot_flat.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/shading_teapot_gouraud.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\shading_teapot_gouraud.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/shading_teapot_phong.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\shading_teapot_phong.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/skinned_robot_bend_elbow.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\skinned_robot_bend_elbow.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/spot_light_conical.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\spot_light_conical.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/texture_mapping_example_map.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\texture_mapping_example_map.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/texture_map_example_clamp.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\texture_map_example_clamp.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/texture_map_example_full.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\texture_map_example_full.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/texture_map_example_full_uvspace.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\texture_map_example_full_uvspace.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/texture_map_example_rotate.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\texture_map_example_rotate.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/texture_map_example_rotate_uvspace.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\texture_map_example_rotate_uvspace.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/texture_map_example_tile.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\texture_map_example_tile.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/texture_map_example_warp1.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\texture_map_example_warp1.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/texture_map_example_warp1_uvspace.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\texture_map_example_warp1_uvspace.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/texture_map_example_warp2.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\texture_map_example_warp2.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/texture_map_example_warp2_uvspace.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\texture_map_example_warp2_uvspace.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/texture_map_example_zoom.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\texture_map_example_zoom.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/texture_map_example_zoom_uvspace.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\texture_map_example_zoom_uvspace.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/vertex_normal_too_smooth.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\vertex_normal_too_smooth.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/view_frustum.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\view_frustum.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/graphics/zoom.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\graphics\zoom.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/intro/book_anachronism.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\intro\book_anachronism.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/kinematics_calculus/constant_acceleration_initial_velocity.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\kinematics_calculus\constant_acceleration_initial_velocity.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/kinematics_calculus/constant_acceleration_rectangles_12.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\kinematics_calculus\constant_acceleration_rectangles_12.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/kinematics_calculus/constant_acceleration_rectangles_24.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\kinematics_calculus\constant_acceleration_rectangles_24.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/kinematics_calculus/constant_acceleration_rectangles_6.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\kinematics_calculus\constant_acceleration_rectangles_6.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/kinematics_calculus/happy.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\kinematics_calculus\happy.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/kinematics_calculus/instantaneous_velocity_1.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\kinematics_calculus\instantaneous_velocity_1.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/kinematics_calculus/instantaneous_velocity_2.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\kinematics_calculus\instantaneous_velocity_2.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/kinematics_calculus/instantaneous_velocity_3a.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\kinematics_calculus\instantaneous_velocity_3a.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/kinematics_calculus/instantaneous_velocity_3b.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\kinematics_calculus\instantaneous_velocity_3b.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/kinematics_calculus/instantaneous_velocity_3c.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\kinematics_calculus\instantaneous_velocity_3c.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/kinematics_calculus/instantaneous_velocity_3center.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\kinematics_calculus\instantaneous_velocity_3center.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/kinematics_calculus/instantaneous_velocity_3d.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\kinematics_calculus\instantaneous_velocity_3d.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/kinematics_calculus/position_velocity_acceleration.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\kinematics_calculus\position_velocity_acceleration.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/kinematics_calculus/projectile_position_velocity.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\kinematics_calculus\projectile_position_velocity.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/kinematics_calculus/projectile_speed_angle.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\kinematics_calculus\projectile_speed_angle.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/kinematics_calculus/tortoise_hare.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\kinematics_calculus\tortoise_hare.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/kinematics_calculus/tortoise_hare_average_velocity_slope.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\kinematics_calculus\tortoise_hare_average_velocity_slope.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/kinematics_calculus/tortoise_hare_average_velocity_zero_pacing.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\kinematics_calculus\tortoise_hare_average_velocity_zero_pacing.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/kinematics_calculus/tortoise_hare_position_and_velocity.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\kinematics_calculus\tortoise_hare_position_and_velocity.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/kinematics_calculus/uniform_circular_motion_3d.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\kinematics_calculus\uniform_circular_motion_3d.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/kinematics_calculus/uniform_circular_motion_acceleration.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\kinematics_calculus\uniform_circular_motion_acceleration.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/kinematics_calculus/uniform_circular_motion_small_angle.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\kinematics_calculus\uniform_circular_motion_small_angle.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/kinematics_calculus/uniform_circular_motion_velocity.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\kinematics_calculus\uniform_circular_motion_velocity.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixintro/2d_matrix_box.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixintro\2d_matrix_box.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixintro/2d_matrix_object_after.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixintro\2d_matrix_object_after.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixintro/2d_matrix_object_before.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixintro\2d_matrix_object_before.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixintro/3d_matrix_object_after.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixintro\3d_matrix_object_after.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixintro/3d_matrix_object_before.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixintro\3d_matrix_object_before.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixintro/3x3matrix_diagonal.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixintro\3x3matrix_diagonal.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixintro/exercise_match_matrix_to_picture.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixintro\exercise_match_matrix_to_picture.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixintro/matrix_multiplication_result_size_rules.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixintro\matrix_multiplication_result_size_rules.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixintro/matrix_mult_example_row_column_1.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixintro\matrix_mult_example_row_column_1.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixintro/matrix_mult_example_row_column_2.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixintro\matrix_mult_example_row_column_2.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixmore/2d_skew_box.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixmore\2d_skew_box.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixmore/determinant_2x2.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixmore\determinant_2x2.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixmore/determinant_3x3.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixmore\determinant_3x3.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixmore/homegenous_2d_projection.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixmore\homegenous_2d_projection.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixmore/ortho_project_teapot.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixmore\ortho_project_teapot.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixmore/perspective_foreshortening.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixmore\perspective_foreshortening.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixmore/perspective_project_teapot.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixmore\perspective_project_teapot.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixmore/pinhole_camera.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixmore\pinhole_camera.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixmore/pinhole_camera_coordinate_system.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixmore\pinhole_camera_coordinate_system.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixmore/pinhole_camera_side_view.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixmore\pinhole_camera_side_view.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixmore/projection_plane_in_front_of_center_of_projection.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixmore\projection_plane_in_front_of_center_of_projection.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixtransforms/2d_rotation.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixtransforms\2d_rotation.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixtransforms/2d_scale.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixtransforms\2d_scale.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixtransforms/arbitrary_scale_vectors.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixtransforms\arbitrary_scale_vectors.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixtransforms/reflect_examples.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixtransforms\reflect_examples.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixtransforms/rotate_about_arbitrary_axis_derive_matrix.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixtransforms\rotate_about_arbitrary_axis_derive_matrix.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixtransforms/rotate_about_x_1.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixtransforms\rotate_about_x_1.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixtransforms/rotate_about_y_1.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixtransforms\rotate_about_y_1.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixtransforms/rotate_about_z_1.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixtransforms\rotate_about_z_1.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/matrixtransforms/shear_2d_x_example.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\matrixtransforms\shear_2d_x_example.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/multiplespaces/camera_space.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\multiplespaces\camera_space.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/multiplespaces/herring_packets.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\multiplespaces\herring_packets.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/multiplespaces/nonparallel_basis.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\multiplespaces\nonparallel_basis.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/multiplespaces/nonparallel_basis_dot_product.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\multiplespaces\nonparallel_basis_dot_product.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/multiplespaces/object_inertial_world_spaces.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\multiplespaces\object_inertial_world_spaces.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/multiplespaces/object_inertial_world_translate_rotate.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\multiplespaces\object_inertial_world_translate_rotate.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/multiplespaces/robot_ad_closeup.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\multiplespaces\robot_ad_closeup.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/multiplespaces/robot_ad_overhead.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\multiplespaces\robot_ad_overhead.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/multiplespaces/robot_ad_two_perspectives_absolute_1.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\multiplespaces\robot_ad_two_perspectives_absolute_1.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/multiplespaces/robot_ad_two_perspectives_absolute_2.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\multiplespaces\robot_ad_two_perspectives_absolute_2.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/multiplespaces/robot_ad_two_perspectives_absolute_3.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\multiplespaces\robot_ad_two_perspectives_absolute_3.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/multiplespaces/robot_ad_two_perspectives_absolute_4.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\multiplespaces\robot_ad_two_perspectives_absolute_4.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/multiplespaces/robot_ad_two_perspectives_absolute_5.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\multiplespaces\robot_ad_two_perspectives_absolute_5.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/multiplespaces/robot_ad_two_perspectives_local_1.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\multiplespaces\robot_ad_two_perspectives_local_1.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/multiplespaces/robot_ad_two_perspectives_local_2.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\multiplespaces\robot_ad_two_perspectives_local_2.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/multiplespaces/robot_ad_two_perspectives_local_3.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\multiplespaces\robot_ad_two_perspectives_local_3.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/multiplespaces/robot_ad_two_perspectives_local_4.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\multiplespaces\robot_ad_two_perspectives_local_4.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/multiplespaces/robot_ad_two_perspectives_local_5.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\multiplespaces\robot_ad_two_perspectives_local_5.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/multiplespaces/robot_ad_world_to_camera_move_obj_1.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\multiplespaces\robot_ad_world_to_camera_move_obj_1.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/multiplespaces/robot_ad_world_to_camera_move_obj_2.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\multiplespaces\robot_ad_world_to_camera_move_obj_2.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/multiplespaces/robot_ad_world_to_camera_move_obj_3.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\multiplespaces\robot_ad_world_to_camera_move_obj_3.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/multiplespaces/robot_at_origin.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\multiplespaces\robot_at_origin.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/multiplespaces/robot_rotate_translate_1.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\multiplespaces\robot_rotate_translate_1.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/multiplespaces/robot_rotate_translate_2.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\multiplespaces\robot_rotate_translate_2.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/multiplespaces/robot_rotate_translate_3.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\multiplespaces\robot_rotate_translate_3.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/multiplespaces/robot_transform_origin_to_kitchen.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\multiplespaces\robot_transform_origin_to_kitchen.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/multiplespaces/two_basis_vectors_in_3d.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\multiplespaces\two_basis_vectors_in_3d.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/orient/euler_angle_interpolation_problem_1.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\orient\euler_angle_interpolation_problem_1.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/orient/euler_angle_interpolation_problem_2.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\orient\euler_angle_interpolation_problem_2.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/orient/exercise_orient_match.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\orient\exercise_orient_match.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/orient/heading_vs_yaw.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\orient\heading_vs_yaw.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/orient/jet_bank.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\orient\jet_bank.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/orient/jet_heading.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\orient\jet_heading.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/orient/jet_identity.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\orient\jet_identity.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/orient/jet_pitch.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\orient\jet_pitch.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/orient/matrix_form_tripod.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\orient\matrix_form_tripod.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/orient/slerp_derive_1.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\orient\slerp_derive_1.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/orient/slerp_derive_2.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\orient\slerp_derive_2.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/orient/twist_object.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\orient\twist_object.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/orient/twist_vector.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\orient\twist_vector.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/polarspace/2d_cartesian_polar_convert.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\polarspace\2d_cartesian_polar_convert.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/polarspace/2d_polar_labeled_points.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\polarspace\2d_polar_labeled_points.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/polarspace/2d_polar_locating_points.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\polarspace\2d_polar_locating_points.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/polarspace/2d_polar_space.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\polarspace\2d_polar_space.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/polarspace/cylindrical_coordinates.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\polarspace\cylindrical_coordinates.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/polarspace/spherical_coordinates_math_people.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\polarspace\spherical_coordinates_math_people.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/polarspace/spherical_coordinates_our_conventions.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\polarspace\spherical_coordinates_our_conventions.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/polarspace/spherical_to_cartesian_math_people.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\polarspace\spherical_to_cartesian_math_people.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/2d_labeled_vectors.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\2d_labeled_vectors.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/2d_vector_between_points.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\2d_vector_between_points.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/2d_vector_vs_point.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\2d_vector_vs_point.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/3d_sequence_of_displacements.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\3d_sequence_of_displacements.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/cross_product.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\cross_product.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/cross_product_area.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\cross_product_area.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/cross_product_clockwise_turn.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\cross_product_clockwise_turn.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/cross_product_counterclockwise_turn.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\cross_product_counterclockwise_turn.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/dot_product.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\dot_product.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/dot_product_adj_over_hyp.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\dot_product_adj_over_hyp.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/dot_product_commutative.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\dot_product_commutative.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/dot_product_distributes.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\dot_product_distributes.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/dot_product_onto_x.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\dot_product_onto_x.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/dot_product_project.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\dot_product_project.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/dot_product_project_kb.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\dot_product_project_kb.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/dot_product_project_signs.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\dot_product_project_signs.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/dot_product_signs.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\dot_product_signs.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/exercise_labeled_vectors.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\exercise_labeled_vectors.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/infinite_vectors_with_same_magnitude.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\infinite_vectors_with_same_magnitude.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/measuring_vector.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\measuring_vector.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/negating_vectors_example.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\negating_vectors_example.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/normalized_vectors.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\normalized_vectors.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/parallelogram_area.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\parallelogram_area.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/project_vector.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\project_vector.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/pythagorean_theorem_vectors.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\pythagorean_theorem_vectors.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/triangle_rule.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\triangle_rule.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/triangle_rule_multiple_vectors.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\triangle_rule_multiple_vectors.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/vector_head_tail.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\vector_head_tail.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/vector_times_scalar_examples_fig.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\vector_times_scalar_examples_fig.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/figs/vectors/what_a_vector_looks_like.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\figs\vectors\what_a_vector_looks_like.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/book/geomprims.html
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\geomprims.html
+Content Type: text/html
+
+Uri: https://www.gamemath.com/book/geomtests.html
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\geomtests.html
+Content Type: text/html
+
+Uri: https://www.gamemath.com/book/graphics.html
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\graphics.html
+Content Type: text/html
+
+Uri: https://www.gamemath.com/book/intro.html
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\intro.html
+Content Type: text/html
+
+Uri: https://www.gamemath.com/book/kinematics_calculus.html
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\kinematics_calculus.html
+Content Type: text/html
+
+Uri: https://www.gamemath.com/book/matrixintro.html
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\matrixintro.html
+Content Type: text/html
+
+Uri: https://www.gamemath.com/book/matrixmore.html
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\matrixmore.html
+Content Type: text/html
+
+Uri: https://www.gamemath.com/book/matrixtransforms.html
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\matrixtransforms.html
+Content Type: text/html
+
+Uri: https://www.gamemath.com/book/multiplespaces.html
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\multiplespaces.html
+Content Type: text/html
+
+Uri: https://www.gamemath.com/book/orient.html
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\orient.html
+Content Type: text/html
+
+Uri: https://www.gamemath.com/book/polarspace.html
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\polarspace.html
+Content Type: text/html
+
+Uri: https://www.gamemath.com/book/vectors.html
+File Name: C:\Downloaded Web Sites\www.gamemath.com\book\vectors.html
+Content Type: text/html
+
+Uri: https://www.gamemath.com/favicon.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\favicon.png
+Content Type: image/png
+
+Uri: https://www.gamemath.com/light_dark_toggle.png
+File Name: C:\Downloaded Web Sites\www.gamemath.com\light_dark_toggle.png
+Content Type: image/png
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-YK41S9NXZG
+File Name: C:\Downloaded Web Sites\www.gamemath.com\gtag\js
+Content Type: application/javascript
+
